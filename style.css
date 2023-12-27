@@ -444,9 +444,9 @@ hr {
 
 }
 
-@media (max-width: 982px){
+@media (max-width: 800px){
     .logo{
-        font-size:1rem:}
+        font-size:1rem;}
 }
 
 @media(max-width:768px) {
