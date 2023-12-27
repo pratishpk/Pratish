@@ -444,6 +444,11 @@ hr {
 
 }
 
+@media (max-width: 982px){
+    .logo{
+        font-size:1rem:}
+}
+
 @media(max-width:768px) {
     .icons {
         display: inline-flex;
